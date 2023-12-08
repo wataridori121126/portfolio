@@ -45,7 +45,7 @@ img {
 
 /* main visual */
 .mv {
-  background: url(./kv.png) center;
+  background: url(kv.png) center;
   height: 46vw;
   background-size: cover;
   position: relative;
