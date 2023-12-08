@@ -45,7 +45,7 @@ img {
 
 /* main visual */
 .mv {
-  background: url(https://wataridori121126.github.io/portfolio/kv.png) center;
+  background: url(./kv.png) center;
   height: 46vw;
   background-size: cover;
   position: relative;
